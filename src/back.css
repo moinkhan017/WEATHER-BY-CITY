@@ -1,0 +1,16 @@
+
+body
+{
+    background-image: url('D:\Material UI\Weather-By-City\src\assets\8131612_43289.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+    overflow-x: hidden;
+    /* overflow-y: hidden;  */
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: skyblue;
+}
